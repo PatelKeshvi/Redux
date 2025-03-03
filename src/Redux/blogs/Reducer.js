@@ -1,0 +1,3 @@
+let initailState = {
+    blog : [],
+}
